@@ -1,0 +1,5 @@
+fastapi==0.72.0
+uvicorn==0.17.0
+mysql-connector-python==8.0.28
+typing-extensions==4.0.1
+pydantic==1.9.0
